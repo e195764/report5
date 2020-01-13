@@ -2,9 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e02d77d6-ab38-425b-93ab-e1357b91d274" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/LivingThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/LivingThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/Enemy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/EnemyTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/Hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/LivingThing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jp/ac/uryukyu/ie/e195764/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingThing_htmlfile/type-search-index.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,43 +251,51 @@
       <option name="project" value="LOCAL" />
       <updated>1578886294559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ステップ3: ソースコードとJavaDocドキュメントの関係について。">
+      <created>1578925048531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578925048532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ステップ1: コードの準備。" />
     <MESSAGE value="ステップ2: gradleによるjarファイルの作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="ステップ2: gradleによるjarファイルの作成" />
+    <MESSAGE value="ステップ3: ソースコードとJavaDocドキュメントの関係について。" />
+    <option name="LAST_COMMIT_MESSAGE" value="ステップ3: ソースコードとJavaDocドキュメントの関係について。" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578924844980">
+    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578925737259">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1578924844979" />
-    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1578886294183">
+    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1578925737259" />
+    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1578925048022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578886294183" />
-    <state width="1396" height="204" key="GridCell.Tab.0.bottom" timestamp="1578924845067">
+    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578925048022" />
+    <state width="1396" height="204" key="GridCell.Tab.0.bottom" timestamp="1578925709658">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578924845067" />
-    <state width="1396" height="204" key="GridCell.Tab.0.center" timestamp="1578924845066">
+    <state width="1396" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578925709658" />
+    <state width="1396" height="204" key="GridCell.Tab.0.center" timestamp="1578925709657">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1578924845066" />
-    <state width="1396" height="204" key="GridCell.Tab.0.left" timestamp="1578924845065">
+    <state width="1396" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1578925709657" />
+    <state width="1396" height="204" key="GridCell.Tab.0.left" timestamp="1578925709657">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1578924845065" />
-    <state width="1396" height="204" key="GridCell.Tab.0.right" timestamp="1578924845066">
+    <state width="1396" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1578925709657" />
+    <state width="1396" height="204" key="GridCell.Tab.0.right" timestamp="1578925709658">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1578924845066" />
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1578886306211">
+    <state width="1396" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1578925709658" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1578925063569">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578886306211" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578925063569" />
     <state x="485" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578884948234">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
