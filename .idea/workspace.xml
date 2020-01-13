@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e02d77d6-ab38-425b-93ab-e1357b91d274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/libs/report5-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/LivingThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/LivingThing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +77,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -189,38 +184,50 @@
       <option name="project" value="LOCAL" />
       <updated>1578885939557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ステップ2: gradleによるjarファイルの作成">
+      <created>1578886294559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578886294559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ステップ1: コードの準備。" />
-    <option name="LAST_COMMIT_MESSAGE" value="ステップ1: コードの準備。" />
+    <MESSAGE value="ステップ2: gradleによるjarファイルの作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="ステップ2: gradleによるjarファイルの作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1578885939327">
+    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578924844980">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578885939327" />
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1578886053053">
+    <state x="438" y="181" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1578924844979" />
+    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1578886294183">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578886053053" />
-    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1578886053052">
+    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578886294183" />
+    <state width="1396" height="204" key="GridCell.Tab.0.bottom" timestamp="1578924845067">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1578886053052" />
-    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1578886053051">
+    <state width="1396" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578924845067" />
+    <state width="1396" height="204" key="GridCell.Tab.0.center" timestamp="1578924845066">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1578886053051" />
-    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1578886053052">
+    <state width="1396" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1578924845066" />
+    <state width="1396" height="204" key="GridCell.Tab.0.left" timestamp="1578924845065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1578886053052" />
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1578885964486">
+    <state width="1396" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1578924845065" />
+    <state width="1396" height="204" key="GridCell.Tab.0.right" timestamp="1578924845066">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578885964486" />
+    <state width="1396" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1578924845066" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1578886306211">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578886306211" />
     <state x="485" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578884948234">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

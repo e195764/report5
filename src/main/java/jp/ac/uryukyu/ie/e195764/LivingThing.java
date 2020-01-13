@@ -27,10 +27,18 @@ public class LivingThing {
         System.out.printf("%sのHPは%d。攻撃力は%dです。\n", name, maximumHP, attack);
     }
 
+    /**
+     * 死亡判定を行うメソッド。true=死亡
+     * @return dead 生物の生死状態。true=死亡
+     */
     public boolean isDead() {
         return dead;
     }
 
+    /**
+     * 相手に攻撃するときのダメージをランダムに生成するメソッド。
+     * @param opponent 攻撃対象
+     */
     public void attack(LivingThing opponent) {
         int damage = (int)(Math.random() * attack);
         if(dead) {
